@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Reparto</string>
+
+    <!-- MENU BOTTOM -->
+    <string name="sales">PreVentas</string>
+    <string name="visits">Visitas</string>
+    <string name="clients">Clientes</string>
+    <string name="history">Historial</string>
+
+
+    <!-- MENU HEADER -->
+    <string name="defaultTitleUsername">Usuario: Usuario de prueba</string>
+    <string name="printerIconDescriptionText">Icono de impresora</string>
+    <string name="endDayStr">Terminar día</string>
+    <string name="closeSession">Cerrar sesión</string>
+
+    <!-- HOME -->
+    <string name="currentDateText">Dia actual</string>
+
+    <!-- LIST ITEM PRESALES -->
+    <string name="listItemPreSaleClientName">Cliente prueba</string>
+    <string name="listItemPreSaleOptionsButton">Opciones</string>
+    <string name="listItemPreSaleDetailsButton">Detalles</string>
+    <string name="listItemPreSaleModificateButton">Modificar</string>
+
+    <string name="delProductContentDescription">Eliminar producto</string>
+
+    <!-- MODAL PRESALE MODIFICATIONS-->
+    <string name="presaleModTitle">Modificación de preventa</string>
+    <string name="presaleModFolio">Folio </string>
+    <string name="presaleModAmount">Monto </string>
+    <string name="presaleModCancelText">Cancelar </string>
+    <string name="presaleModModificateText">Modificar</string>
+    <string name="delProductDefaultQuantity"></string>
+    <string name="delProductDefaultProduct">Producto</string>
+    <string name="inputQuantityHint">Kilos</string>
+    <!-- MODAL PRESALE DETAILS-->
+    <string name="clientNameTextView">Nombre de cliente</string>
+    <string name="folioPreSaleText">Folio preventa</string>
+    <string name="preSaleProducts">Productos</string>
+
+    <string name="totalAmountForPresale">Monto total: $0.00</string>
+    <string name="genSaleFromPreSale">Generar nota de venta</string>
+    <string name="cancelSaleFromPreSale">Cancelar</string>
+    <string name="tableProductsContentDescription">Tabla de productos</string>
+
+    <!-- MODAL PRESALE PRODUCT LIST ITEM-->
+    <string name="codeColumn">Codigo</string>
+    <string name="presentationColumn">Presentacion</string>
+    <string name="quantityColumn">Cantidad</string>
+
+    <string name="codeHeader">Código</string>
+    <string name="presentationHeader">Presentación</string>
+    <string name="quantityHeader">Cantidad</string>
+    <!-- VISITS -->
+    <string name="keyOrName">Clave o nombre</string>
+    <string name="seeRouteMap">Ver ruta en mapa</string>
+
+    <!-- CLIENTS -->
+    <string name="newClientBtn">Nuevo cliente</string>
+    <string name="searchClient">Buscar Cliente</string>
+    <string name="clientsTitle">Clientes:</string>
+    <string name="searchClientBtnText">Buscar</string>
+    <!-- HISTORY -->
+    <string name="dateStr">Fecha: 2023-04-30</string>
+    <string name="keyOrNameClient">Clave/nombre del cliente</string>
+    <string name="editIconDescription">Icono de edición de fecha</string>
+
+    <!-- MODAL INFORMATION -->
+    <string name="modalTitleExample">Mensaje personalizado</string>
+    <string name="acceptTextBtn">Aceptar</string>
+
+    <!-- MODAL LOADING CHANGES-->
+    <string name="titleModal">Mensaje de carga personzalizada</string>
+
+    <!-- ITEM LIST PRODUCT SALE -->
+    <string name="codeProductItem">Código</string>
+    <string name="nameProductItem">Nombre</string>
+    <string name="weightProductItem">Peso</string>
+
+    <!-- MODAL FOR PAYMETN -->
+    <string name="totalForPayment">Total a pagar:</string>
+    <string name="payWith">Pago con:</string>
+
+    <!-- REGISTER CLIENT FORMS TEXT-->
+    <string name="registerNewClientTitle">Registro de Cliente</string>
+
+    <string name="registerNewNameField">Nombre</string>
+    <string name="registerNewStreetField">Calle</string>
+    <string name="registerNewMunicipalityField">Municipio</string>
+    <string name="registerNewSuburbField">Colonia</string>
+    <string name="registerNewNoExtField">Número exterior (Opcional)</string>
+    <string name="registerNewCPField">Código postal</string>
+    <string name="registerNewDaysToVisitTitle">Dias de visita</string>
+
+    <string name="registerNewDayMonday">Lunes</string>
+    <string name="registerNewDayTuesday">Martes</string>
+    <string name="registerNewDayWednesday">Miercoles</string>
+    <string name="registerNewDayThursday">Jueves</string>
+    <string name="registerNewDayFriday">Viernes</string>
+    <string name="registerNewDaySaturday">Sabado</string>
+
+    <string name="latitudTextStr">Latitud: Sin asignar</string>
+    <string name="longitudTextStr">Longitud: Sin asignar</string>
+    <string name="registerNewButtonNext">Registrar</string>
+    <string name="registerNewClientCancelButton">Cancelar</string>
+    <string name="mapButtonRegisterClient">Mapa</string>
+    <!--Fragment map register client-->
+    <string name="fragmentMapRegisterLocationInfoText">Información de geolocalización</string>
+    <string name="fragmentMapRegisterLocationButtonText">Capturar</string>
+    <string name="fragmentMapRegisterLocationCancelButtonText">Cancelar</string>
+    <string name="registerNewLatitude">Latitud:</string>
+    <string name="registerNewLongitude">Longitud:</string>
+    <!-- -->
+    <!--Modal coordenates TEXT-->
+    <string name="modalButtonClientv2AcceptText">Aceptar</string>
+    <string name="modalClientv2Msg">Cargando datos de dirección</string>
+    <string name="modalClientv2Title">Localizando</string>
+
+    <!-- MODAL PRESALE DETAILS -->
+    <string name="preSaleFolio">Folio preventa: 1PV1</string>
+    <string name="clientDetails">Cliente: </string>
+    <string name="amountPreSales">Monto: $0.00</string>
+    <string name="dateToDeliver">Fecha de reparto: </string>
+    <string name="cancelPreSale">Cancelar</string>
+    <string name="genPresaleConfirm">Generar preventa</string>
+    <string name="contentDescriptionCalendarIcon">Calendario</string>
+
+    <!-- PRESALE ITEM TEXT -->
+    <string name="preSaleItemFolio">Folio: </string>
+    <string name="preSaleItemClient">Cliente: </string>
+    <string name="preSaleItemAmount">$0.00 </string>
+    <string name="preSaleItemStatus">Estatus: Activo</string>
+    <string name="preSaleItemOptions">Opciones </string>
+
+    <!-- OPTIONS PRESALE MODAL-->
+    <string name="preSaleOptionsModal">¿Que operación deceas realizar?</string>
+    <string name="preSaleOptionReprint">Reimprimir</string>
+
+    <!-- VISIT MAP-->
+    <string name="fragmentMapButtonActionsText">Acciones</string>
+    <string name="fragmentMapButtonGoBackText">Regresar</string>
+
+    <!-- MODAL REGISTER CLIENT VISIT OPTIONS-->
+    <string name="modalRegisterVisitModalTitle">Acciones</string>
+    <string name="modalRegisterVisitButton1Title">Registrar visita sin venta</string>
+    <string name="modalRegisterVisitButton2Title">No se visitó (Observaciones)</string>
+
+    <!-- MODAL REGISTER CLIENT VISIT WITH OBSERVATIONS -->
+    <string name="modalWithObservationsTitle">Ingresa las observaciones</string>
+    <string name="modalWithObservationsTextArea">Observaciones</string>
+    <string name="modalWithObservationsCancel">Cancelar</string>
+    <string name="modalWithObservationsAccept">Aceptar</string>
+
+    <!-- RESINCRONIZE MODAL-->
+    <string name="modalResincronizeTitle">Sistema de resincronización</string>
+    <string name="modalResincronizeCancel">Cancelar</string>
+
+    <!-- LIST ITEM DEBT -->
+    <string name="folioTextView">Folio </string>
+    <string name="clientNameDebtTextView">Cliente </string>
+    <string name="amountDebtTextView">Monto </string>
+    <string name="estatusDebtTextView">Estatus</string>
+
+    <string name="payDebtButton">Realizar cobro</string>
+    <string name="reprintDebtButton">Reimprimir</string>
+
+    <string name="changeToDebtsText">Ir a Cobranza</string>
+</resources>
